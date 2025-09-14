@@ -1,0 +1,5 @@
+{
+  "name": "Student Dormitory Management System",
+  "description": "A modern, responsive web application for managing student dormitories. Features include student information management, dormitory allocation, repair requests, hygiene checks, and visitor registration with role-based access for administrators, dorm managers, and students.",
+  "requestFramePermissions": []
+}
